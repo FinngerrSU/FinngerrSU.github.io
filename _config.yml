@@ -1,0 +1,19 @@
+title: "My Awesome Site"
+description: "Welcome to my personal website!"
+theme: minima # Default Jekyll theme
+url: "https://yourusername.github.io" # Your site's URL
+
+# GitHub Pages Settings
+baseurl: "" # Leave empty for a personal site, or "/repository-name" for project sites
+remote_theme: "pages-themes/cayman" # Example theme
+plugins:
+  - jekyll-feed
+
+# Author Info
+author:
+  name: "Your Name"
+  email: "your_email@example.com"
+
+# Social Links (Optional)
+twitter_username: your_twitter_handle
+github_username: yourusername
